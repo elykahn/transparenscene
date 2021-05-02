@@ -51,7 +51,7 @@ const PostListItem = ({
       <PostListMeta>
         <span>{date}</span>
 
-        <span>{timeToRead} mins</span>
+        <span>{timeToRead} m</span>
       </PostListMeta>
     </StyledPostListItem>
   );
