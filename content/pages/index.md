@@ -1,8 +1,7 @@
 ---
-template: 'index-template'
-title: 'Gatsby Starter Glass'
+template: index-template
+title: Gatsby Starter Glass
 ---
+# Transparenscene
 
-#Hello World
-
-A minimal & beautiful gatsby personal blog starter with nice glassmorphism UI.
+A Window into & out of Subjective Consciousness & The Outside World
