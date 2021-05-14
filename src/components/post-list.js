@@ -83,7 +83,7 @@ const StyledPostListItem = styled.li`
   border-radius: 8px;
 
   &:hover {
-    background-color: rgba(235, 235, 205, 0.5);
+    background-color: rgba(235, 235, 235, 0.5);
   }
 
   @media screen and (max-width: 500px) {
